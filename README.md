@@ -6,7 +6,7 @@
 
 <p><a href="https://www.linkedin.com/in/julietalopher" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Common_Kingfisher_Alcedo_atthis.jpg/375px-Common_Kingfisher_Alcedo_atthis.jpg" alt="kingfisher.com" width="100" height="100"/> </a></p>
 
-(_Si le das click al martin pescador te lleva a mi Linkedin_)
+(*Si le das click al martin pescador te lleva a mi Linkedin*)
 
 ## Áreas de interes
 
@@ -14,6 +14,7 @@
 2.  Gestión integral de cuencas
 3.  Ciencia Ciudadana
 4.  Fitoremediación.
+5.  Intento
 
 ## Experiencia
 
