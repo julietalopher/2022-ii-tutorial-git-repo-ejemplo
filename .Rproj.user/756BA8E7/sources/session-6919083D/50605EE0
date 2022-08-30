@@ -3,7 +3,7 @@
     "path": "D:/Programacion_R/2022-ii-tutorial-git-repo-ejemplo/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "952152486",
+    "hash": "2065142237",
     "contents": "",
     "dirty": false,
     "created": 1661819339867.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,280",
+        "cursorPosition": "8,59",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualModeLocation": "2:80",
@@ -21,11 +21,11 @@
         "rmdVisualCollapsedChunks": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1661822993,
+    "lastKnownWriteTime": 1661824211,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1661822993823,
+    "last_content_update": 1661824211987,
     "read_only": false,
     "read_only_alternatives": []
 }
